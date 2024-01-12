@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+✨크래프톤 정글 4기에 오신 정글러 분들을 모두 환영합니다✨
+
 <!--
 
 **Here are some ideas to get you started:**
