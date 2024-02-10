@@ -30,3 +30,15 @@
 
 * 크래프톤 정글 4기의 멤버라면, 하고 싶은 것을 자유롭게 진행해주세요 :)
 * 단, 정글 과정 중 개인 과제로 주어지는 것들은(ex. 알고리즘 문제 풀이) **반드시** 개인 계정 저장소에 올리셔야 합니다.
+
+## Contributors
+<div align="center" style="height:200px">
+  <p align="center">
+    <a href="https://community.vaunt.dev/board/KraftonJungle4th">
+     <img style="height: 30px;" alt="KraftonJungle4th Community" src="https://api.vaunt.dev/v1/github/entities/KraftonJungle4th/badges/community">
+    </a>
+  </p>
+  <div style="border: 2px solid #cecece;border-radius: 2px 2px;height:400px; width:800px;">
+    <img src="https://api.vaunt.dev/v1/github/entities/KraftonJungle4th/contributors?limit=50&format=svg&private=true" height="200"/>
+  </div>
+</div>
